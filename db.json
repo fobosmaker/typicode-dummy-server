@@ -12,12 +12,14 @@
     {
       "id": 1,
       "title": "hello",
-      "body": "This is first notification!"
+      "body": "This is first notification!",
+      "isRead":0,
     },
     {
       "id": 2,
       "title": "hello",
-      "body": "This is second notification!"
+      "body": "This is second notification!",
+      "isRead":1,
     }
   ]
 }
