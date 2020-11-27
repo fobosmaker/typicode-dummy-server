@@ -13,13 +13,15 @@
       "id": 10,
       "title": "Hello",
       "body": "This is first notification!",
+      "payload":"perjanjian|1234",
       "isRead": 0
     },
     {
       "id": 2,
       "title": "Hai",
       "body": "This is second notification!",
-      "isRead": 1
+      "payload":"farmasi|1234",
+      "isRead": 0
     }
   ]
 }
