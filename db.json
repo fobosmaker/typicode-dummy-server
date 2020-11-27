@@ -14,11 +14,10 @@
       "title": "hello",
       "body": "This is first notification!"
     },
-    
     {
       "id": 2,
       "title": "hello",
       "body": "This is second notification!"
     }
-  ],
+  ]
 }
