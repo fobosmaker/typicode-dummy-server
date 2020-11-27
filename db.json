@@ -13,7 +13,7 @@
       "id": 1,
       "title": "Hello",
       "body": "This is first notification!",
-      "isRead": 1
+      "isRead": 0
     },
     {
       "id": 2,
