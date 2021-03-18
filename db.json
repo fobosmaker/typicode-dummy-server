@@ -27,6 +27,29 @@
   "edukasiPreview": [
     {
       "image": "https://www.rscm.co.id/images/rscmku/edukasi7.jpeg"
+    },
+    {
+      "image": "https://www.rscm.co.id/images/rscmku/edukasi8.jpeg"
+    },
+    {
+      "image": "https://www.rscm.co.id/images/rscmku/edukasi9.jpeg"
+    },
+    {
+      "image": "https://www.rscm.co.id/images/rscmku/edukasi10.jpeg"
+    },
+    {
+      "image": "https://www.rscm.co.id/images/rscmku/edukasi11.jpeg"
+    }
+  ],
+  "promosiPreview": [
+    {
+      "image": "https://www.rscm.co.id/images/rscmku/promosi1.jpeg"
+    },
+    {
+      "image": "https://www.rscm.co.id/images/rscmku/promosi2.jpeg"
+    },
+    {
+      "image": "https://www.rscm.co.id/images/rscmku/promosi3.jpeg"
     }
   ]
 }
