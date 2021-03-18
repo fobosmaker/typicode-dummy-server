@@ -27,13 +27,6 @@
   "edukasiPreview": [
     {
       "image": "https://www.rscm.co.id/images/rscmku/edukasi7.jpeg"
-    },
-    {
-      "id": 2,
-      "title": "Hai",
-      "body": "This is second notification!",
-      "payload":"farmasi|1234",
-      "isRead": 0
     }
   ]
 }
